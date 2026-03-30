@@ -1,4 +1,4 @@
-# Respawn Invoicing
+# Simple Invoicing & Accounting
 
 Full-stack invoicing + inventory solution.
 
